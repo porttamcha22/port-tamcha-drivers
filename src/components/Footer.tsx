@@ -6,7 +6,7 @@ const Footer = () => {
           Port <span className="text-primary">Tamcha</span>
         </p>
         <p className="text-sm">
-          © {new Date().getFullYear()} Port Tamcha. All rights reserved.
+          © 2023 Port Tamcha. All rights reserved.
         </p>
         <p className="text-sm">150 SE 2nd Ave, Miami, FL 33131</p>
       </div>
